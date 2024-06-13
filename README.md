@@ -1,0 +1,1 @@
+I'm confused with this project, I had difficulty with SQL, I got a 1064 SQL syntax error and I couldn't solve it, but I created a database and entered the information. Another point and about the video, where do I insert the presentation video?
